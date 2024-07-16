@@ -1,0 +1,35 @@
+[
+    {
+        "title": "dfstgdg",
+        "authors": [
+            "dfgdgf",
+            "sdfsdf"
+        ],
+        "isbn": "3223423",
+        "publishing_year": "2332",
+        "price": 1221.0,
+        "quantity": 122
+    },
+    {
+        "title": "sdgas",
+        "authors": [
+            "asdasd",
+            "dssa"
+        ],
+        "isbn": "dsa121",
+        "publishing_year": "323",
+        "price": 2332.0,
+        "quantity": 321
+    },
+    {
+        "title": "python",
+        "authors": [
+            "tamim",
+            "shubeen"
+        ],
+        "isbn": "124434",
+        "publishing_year": "2013",
+        "price": 500.0,
+        "quantity": 20
+    }
+]
